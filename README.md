@@ -21,25 +21,22 @@
 
 ## `01` — About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.username = "cyanzx"
-        self.learning = ["Python", "Web Development"]
-        self.tools = ["Git", "GitHub"]
-        self.interests = ["Programming", "Building Projects"]
+<div align="center">
+<img alt="image" src="https://github.com/user-attachments/assets/e2087e07-c659-440e-8c58-e865c836de2b"  width="25%" align="right" />
 
-    def mindset(self):
-        return "Learn by building."
-```
+<br><br>
+<pre>
+    💼 Back-end dev • Web Engineer
+    💻 System programming languages • DevOps 
+    📖 Software architecture • Distributed systems
+    🎮 Music • Games • Movies • Code • Books
+</pre>
+<br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br>
 
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/e2087e07-c659-440e-8c58-e865c836de2b" />
 
-I'm currently learning Python and exploring web development.
 
-This profile is where I keep my code, experiments, and projects as I continue developing my skills.
-
----
 
 ## `02` — Tech Stack
 
