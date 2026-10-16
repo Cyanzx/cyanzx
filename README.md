@@ -22,7 +22,10 @@
 ## `01` — About Me
 
 <div align="center">
-<img alt="image" src="https://github.com/user-attachments/assets/e2087e07-c659-440e-8c58-e865c836de2b"  width="25%" align="right" />
+<img alt="image" src="https://github.com/user-attachments/assets/1e194ac0-01d3-4122-b70f-fc4ab667018c"  width="25%" align="right" />
+
+
+
 
 <br><br>
 <pre>
